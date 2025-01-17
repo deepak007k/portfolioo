@@ -1,7 +1,6 @@
-# portfolioo
+# Portfolioo
 
-
-![Image](https://github.com/user-attachments/assets/a38ec677-fde5-41a7-bf40-4534b8cf6a3e)
+![Image](https://github.com/user-attachments/assets/0c950703-6767-427b-bf36-70a27a34daa1)
 # Deepak Kuruva
 Java Full Stack Developer
 
