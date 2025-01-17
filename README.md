@@ -29,7 +29,7 @@ I am an experienced Full Stack Developer with a proven track record of deliverin
 ## Professional Experience
 
 ### Full Stack Developer  
-**Dell**, Round rock, Texas (Mar 2024–Present)  
+**Dell, Round rock, Texas (Mar 2024–Present)**
 
 Built scalable web applications using Java (Spring Boot) and React, increasing application performance by 30%.
 Designed and implemented RESTful APIs with Spring Boot, reducing data retrieval times by 25%.
@@ -38,7 +38,7 @@ Automated CI/CD pipelines with Jenkins and Docker, improving deployment speed by
 Mentored junior developers, boosting team productivity by 20%.
 
 ### Full Stack Developer  
-Hyundai,Fountain Valley, California (Jan 2022 – Feb 2023)
+**Hyundai,Fountain Valley, California (Jan 2022 – Feb 2023)**
 
 Developed RESTful APIs using Java (Spring Boot) for high-performance web applications.
 Migrated applications from Azure to AWS, improving cost efficiency and scalability.
@@ -48,14 +48,14 @@ Optimized AWS IAM roles for secure access controls and compliance.
 
 
 ### Full Stack Developer  
-Molina Health care, Irving, Texas (Feb 2020 – Dec 2021)
+**Molina Health care, Irving, Texas (Feb 2020 – Dec 2021)**
 
 Developed backend services and RESTful APIs using Java (Spring Boot) for scalable applications.
 Integrated Azure services (Blob Storage, Functions, App Services) to build cloud-based solutions.
 Optimized big data processing tasks using Apache Spark on Azure Databricks, enhancing pipeline efficiency.
 
 ### Full Stack Developer  
-Razor Pay, Bangalore, Karnataka (Mar 2019 – Jan 2020)
+**Razor Pay, Bangalore, Karnataka (Mar 2019 – Jan 2020)**
 
 - Developed microservices using Flask and FastAPI for real-time data processing.
 - Built serverless applications on AWS using Lambda, S3, and RDS.
