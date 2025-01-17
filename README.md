@@ -8,12 +8,10 @@
 - **Email**: [deepak.kuruva9@gmail.com](mailto:deepak.kuruva9@gmail.com)
 - **Phone**: +1 ‪(205) 687-0531
 
-## About Me
-
+# About Me
 I am an experienced Full Stack Developer with a proven track record of delivering high-quality, scalable web applications. I specialize in both front-end and back-end development using technologies such as Java (Spring Boot, Hibernate), JavaScript (ReactJS, Angular), and cloud services (AWS, Azure). I am adept at designing RESTful APIs, implementing CI/CD pipelines, and building microservices architectures. I have a strong background in optimizing application performance, ensuring security, and collaborating with cross-functional teams to achieve project success. I am committed to leveraging my technical expertise to create user-friendly and efficient software solutions.
 
 ## Technical Skills
-
 - Languages	: Java 8/7/6, C, C++, SQL, PL/SQL
 - Java/J2EE Technologies	:	Core Java, JSP, JMS, Java Beans, EJB, Tiles, Design Patterns, RabbitMQ, ActiveMQFrameworks	Spring, Hibernate, Spring Boot.
 - Web Technologies:	HTML5, XML, DOM, JSON, CSS3, JavaScript, jQuery, AJAX, Angular.JS, React.JS, REDUX, React Native, Node.JS
@@ -27,7 +25,6 @@ I am an experienced Full Stack Developer with a proven track record of deliverin
 
 
 ## Professional Experience
-
 ### Full Stack Developer  
 **Dell**, Round rock, Texas (Mar 2024–Present)
 
