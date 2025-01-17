@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/0c950703-6767-427b-bf36-70a27a34daa1)
 # Deepak Kuruva
-Java Full Stack Developer
+# Java Full Stack Developer
 
 **Contact Information**:
 - **Email**: [deepak.kuruva9@gmail.com](mailto:deepak.kuruva9@gmail.com)
