@@ -1,4 +1,4 @@
-# Portfolioo
+# Portfolio
 
 ![Image](https://github.com/user-attachments/assets/0c950703-6767-427b-bf36-70a27a34daa1)
 # Deepak Kuruva
@@ -29,7 +29,7 @@ I am an experienced Full Stack Developer with a proven track record of deliverin
 ## Professional Experience
 
 ### Full Stack Developer  
-**Dell, Round rock, Texas (Mar 2024–Present)**
+*Dell, Round rock, Texas (Mar 2024–Present)*
 
 Built scalable web applications using Java (Spring Boot) and React, increasing application performance by 30%.
 Designed and implemented RESTful APIs with Spring Boot, reducing data retrieval times by 25%.
