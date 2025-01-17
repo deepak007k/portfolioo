@@ -31,11 +31,11 @@ I am an experienced Full Stack Developer with a proven track record of deliverin
 ### Full Stack Developer  
 **Dell**, Round rock, Texas (Mar 2024–Present)
 
-Built scalable web applications using Java (Spring Boot) and React, increasing application performance by 30%.
-Designed and implemented RESTful APIs with Spring Boot, reducing data retrieval times by 25%.
-Utilized AWS services such as EC2, S3, Lambda, and RDS, enhancing system scalability by 40%.
-Automated CI/CD pipelines with Jenkins and Docker, improving deployment speed by 35%.
-Mentored junior developers, boosting team productivity by 20%.
+- Built scalable web applications using Java (Spring Boot) and React, increasing application performance by 30%.
+- Designed and implemented RESTful APIs with Spring Boot, reducing data retrieval times by 25%.
+- Utilized AWS services such as EC2, S3, Lambda, and RDS, enhancing system scalability by 40%.
+- Automated CI/CD pipelines with Jenkins and Docker, improving deployment speed by 35%.
+- Mentored junior developers, boosting team productivity by 20%.
 
 ### Full Stack Developer  
 **Hyundai**,Fountain Valley, California (Jan 2022 – Feb 2023)
