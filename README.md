@@ -40,19 +40,19 @@ Mentored junior developers, boosting team productivity by 20%.
 ### Full Stack Developer  
 **Hyundai**,Fountain Valley, California (Jan 2022 – Feb 2023)
 
-Developed RESTful APIs using Java (Spring Boot) for high-performance web applications.
-Migrated applications from Azure to AWS, improving cost efficiency and scalability.
-Utilized Terraform and AWS CloudFormation for automated resource provisioning.
-Optimized AWS IAM roles for secure access controls and compliance.
+- Developed RESTful APIs using Java (Spring Boot) for high-performance web applications.
+- Migrated applications from Azure to AWS, improving cost efficiency and scalability.
+- Utilized Terraform and AWS CloudFormation for automated resource provisioning.
+- Optimized AWS IAM roles for secure access controls and compliance.
 
 
 
 ### Full Stack Developer  
 **Molina Health care**, Irving, Texas (Feb 2020 – Dec 2021)
 
-Developed backend services and RESTful APIs using Java (Spring Boot) for scalable applications.
-Integrated Azure services (Blob Storage, Functions, App Services) to build cloud-based solutions.
-Optimized big data processing tasks using Apache Spark on Azure Databricks, enhancing pipeline efficiency.
+- Developed backend services and RESTful APIs using Java (Spring Boot) for scalable applications.
+- Integrated Azure services (Blob Storage, Functions, App Services) to build cloud-based solutions.
+- Optimized big data processing tasks using Apache Spark on Azure Databricks, enhancing pipeline efficiency.
 
 ### Full Stack Developer  
 **Razor Pay**, Bangalore, Karnataka (Mar 2019 – Jan 2020)
