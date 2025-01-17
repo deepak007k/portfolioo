@@ -2,8 +2,8 @@
 
 
 ![Image](https://github.com/user-attachments/assets/a38ec677-fde5-41a7-bf40-4534b8cf6a3e)
-# Ashwitha Reddy
-Python Full Stack Developer
+# Deepak Kuruva
+Java Full Stack Developer
 
 **Contact Information**:
 - **Email**: [deepak.kuruva9@gmail.com](mailto:deepak.kuruva9@gmail.com)
