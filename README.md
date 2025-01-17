@@ -1,6 +1,7 @@
 # Portfolio
 
-![Image](https://github.com/user-attachments/assets/0c950703-6767-427b-bf36-70a27a34daa1)
+
+<img src="https://github.com/user-attachments/assets/0c950703-6767-427b-bf36-70a27a34daa1" alt="Profile Picture" width="200" height="200">
 # Deepak Kuruva
 # Java Full Stack Developer
 
